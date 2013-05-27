@@ -15,7 +15,6 @@ arena_goldtooth
 arena_tundra_b3
 vsh_arakawa_b1a
 vsh_deserted_mirage_a4
-vsh_2fortdesk_v8
 vsh_track
 vsh_top_arena_v1
 arena_cube_v5
