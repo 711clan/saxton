@@ -33,4 +33,3 @@ vsh_stream_platform
 vsh_factoryhell
 vsh_campette
 koth_harvest_event
-vsh_Hakurei_Winter_v2
