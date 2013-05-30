@@ -1,7 +1,7 @@
-arena_lumberyard
 arena_badlands
 arena_goldtooth
 arena_granary
+arena_lumberyard
 arena_nucleus
 arena_polar_final
 arena_ravine
