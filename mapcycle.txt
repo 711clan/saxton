@@ -1,14 +1,13 @@
+arena_lumberyard
 arena_badlands
 arena_goldtooth
 arena_granary
-arena_lumberyard
 arena_nucleus
 arena_polar_final
 arena_ravine
 arena_sawmill
 arena_well
 vsh_arakawa_b1a
-vsh_campette
 vsh_courtyard
 vsh_crevice_b5
 vsh_deserted_mirage_a4
